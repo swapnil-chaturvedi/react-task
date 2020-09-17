@@ -5,7 +5,9 @@ const Navbar = () => {
   return (
     <nav className="nav-wrapper indigo">
       <div className="container">
-        <a className="brand-logo">React Task</a>
+        <a href="#" className="brand-logo">
+          React Task
+        </a>
         <ul className="right">
           <li>
             <Link to="/All">All</Link>

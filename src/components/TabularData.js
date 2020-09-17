@@ -7,8 +7,8 @@ export class TabularData extends Component {
       <table className="centered striped">
         <thead>
           <tr>
-            <th>District</th>
             <th>City</th>
+            <th>District</th>
             <th>State</th>
             {isShortList ? "" : <th>Action</th>}
           </tr>

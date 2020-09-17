@@ -1,4 +1,3 @@
-import { shortlistCity } from "../actions/cities";
 import { FETCH_CITIES } from "../actions/cities/citiesType";
 import { SHORTLIST_CITY } from "../actions/cities/citiesType";
 import { DELETE_CITY } from "../actions/cities/citiesType";
